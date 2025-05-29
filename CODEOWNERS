@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @serlom-serl
+/src/backend/database.py      @serlom-serl
+/src/backend/routers/auth.py  @serlom-serl
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @serlom-serl
